@@ -1,0 +1,11 @@
+.nav-link:hover {
+    background-color: #fd0247; /* Light gray */
+    border-radius: 5px;
+     
+}
+.nav-item {
+    padding-left: 4px; /* Adjust as needed */
+    padding-right: 4px; /* Adjust as needed */
+  }
+
+ 
